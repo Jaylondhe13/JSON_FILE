@@ -8,55 +8,55 @@
 			"rating": 4
 		},
 		{
-			"id": 1,
+			"id": 2,
 			"name": "amazing Product 2",
-			"price": 25,
-			"price after Discount": 20,
+			"price": 35,
+			"price after Discount": 30,
 			"image name": "cat3",
 			"rating": 4
 		},
 		{
-			"id": 1,
+			"id": 3,
 			"name": "amazing Product 3",
-			"price": 25,
-			"price after Discount": 20,
+			"price": 45,
+			"price after Discount": 40,
 			"image name": "cat3",
 			"rating": 4
 		},
 		     {
-			"id": 1,
-			"name": "amazing Product 3",
-			"price": 25,
-			"price after Discount": 20,
+			"id": 4,
+			"name": "amazing Product 4",
+			"price": 55,
+			"price after Discount": 50,
 			"image name": "cat3",
 			"rating": 4
 		},
 		     {
-			"id": 1,
-			"name": "amazing Product 3",
-			"price": 25,
-			"price after Discount": 20,
+			"id": 5,
+			"name": "amazing Product 5",
+			"price": 65,
+			"price after Discount": 60,
 			"image name": "cat3",
 			"rating": 4
 		},{
-			"id": 1,
-			"name": "amazing Product 3",
-			"price": 25,
-			"price after Discount": 20,
+			"id": 6,
+			"name": "amazing Product 6",
+			"price": 75,
+			"price after Discount": 70,
 			"image name": "cat3",
 			"rating": 4
 		},{
-			"id": 1,
-			"name": "amazing Product 3",
-			"price": 25,
-			"price after Discount": 20,
+			"id": 7,
+			"name": "amazing Product 7",
+			"price": 85,
+			"price after Discount": 80,
 			"image name": "cat3",
 			"rating": 4
 		},{
-			"id": 1,
-			"name": "amazing Product 3",
-			"price": 25,
-			"price after Discount": 20,
+			"id": 8,
+			"name": "amazing Product 8",
+			"price": 95,
+			"price after Discount": 90,
 			"image name": "cat3",
 			"rating": 4
 		}
