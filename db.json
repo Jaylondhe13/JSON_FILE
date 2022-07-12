@@ -8,7 +8,7 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"Sold By":"ABC Design Private Limited"
+			"SoldBy":"ABC Design Private Limited"
 		},
 		{
 			"id": 2,
@@ -19,7 +19,7 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"Sold By":"ABC Design Private Limited"
+			"SoldBy":"ABC Design Private Limited"
 		},
 		{
 			"id": 3,
@@ -30,7 +30,7 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"Sold By":"ABC Design Private Limited"
+			"SoldBy":"ABC Design Private Limited"
 		},
 		{
 			"id": 4,
@@ -41,7 +41,7 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"Sold By":"ABC Design Private Limited"
+			"SoldBy":"ABC Design Private Limited"
 		},
 		{
 			"id": 5,
@@ -52,7 +52,7 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"Sold By":"ABC Design Private Limited"
+			"SoldBy":"ABC Design Private Limited"
 		}, {
 			"id": 6,
 			"name": "amazing Product 6",
@@ -62,7 +62,7 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"Sold By":"ABC Design Private Limited"
+			"SoldBy":"ABC Design Private Limited"
 		},
 		{
 			"id": 7,
@@ -73,7 +73,7 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"Sold By":"ABC Design Private Limited"
+			"SoldBy":"ABC Design Private Limited"
 		},
 		{
 			"id": 8,
@@ -84,7 +84,7 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"Sold By":"ABC Design Private Limited"
+			"SoldBy":"ABC Design Private Limited"
 		}
 	]
 }
