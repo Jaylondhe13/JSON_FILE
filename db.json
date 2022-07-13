@@ -19,18 +19,18 @@
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
 			"color": "white",
-			"SoldBy":"ABC Design Private Limited"
+			"SoldBy":"PQR Design Private Limited"
 		},
 		{
 			"id": 3,
 			"name": "Amazing Product 3",
-			"price": 15,
+			"price": 1500,
 			"priceAfterDiscount": 600,
 			"image name": "cat3",
 			"rating": 4,
 			"describtion": "Your's favourite Premium Quality Natural..",
-			"color": "white",
-			"SoldBy":"ABC Design Private Limited"
+			"color": "yellow",
+			"SoldBy":"XYZ Design Private Limited"
 		},
 		{
 			"id": 4,
